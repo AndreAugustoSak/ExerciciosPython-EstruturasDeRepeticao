@@ -3,7 +3,8 @@
     # Idade: entre 0 e 150;
     # Salário: maior que zero;
     # Sexo: 'f' ou 'm';
-    # Estado Civil: 's', 'c', 'v', 'd';
+    # Estado Civil: 's', 'c', 'v', 'd'.
+
 def estrutura_de_repeticao_03():
     nome = str(input('Qual o seu nome? '))
     if len(nome) < 3:
