@@ -8,5 +8,5 @@ def estrutura_de_repeticao_01():
         print('Número inválido!')
         estrutura_de_repeticao_01()
 
-        
+
 estrutura_de_repeticao_01()
